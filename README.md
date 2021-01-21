@@ -1,4 +1,2 @@
 # mentorif
-bhag milkha bhag
-bhagta reh sale
-aur bhag
+introduction to Html,CSS,Bootstrap,Git and Github
