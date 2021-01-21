@@ -1,2 +1,2 @@
 # mentorif
-introduction to Html,CSS,Bootstrap,Git and Github
+introduction to Html,CSS,Bootstrap,Git,Github
